@@ -1,0 +1,68 @@
+{
+    "cek_pasien":[
+        {
+            "id":1,
+            "title":"Cek Suhu",
+            "deskripsi":"Ipsum culpa autem occaecati voluptatum aut consequatur dolorem. Voluptatem voluptates aut dolor temporibus. Unde excepturi et. Alias corrupti ipsam nesciunt illo excepturi. Quidem neque autem mollitia perspiciatis quidem in. Eveniet delectus magni optio et rerum qui perspiciatis eos debitis.",
+            "file":"http://placeimg.com/640/480/people",
+            "type":"image"
+        },
+        {
+            "id":2,
+            "title":"Cek Tensi",
+            "deskripsi":"Laborum quisquam qui est dolore iste. Omnis aut quos deserunt. Minus itaque tenetur aliquam dolor est adipisci.",
+            "file":"http://placeimg.com/640/480/people",
+            "type":"image"
+        },
+        {
+            "id":3,
+            "title":"Cek Pernapasan",
+            "deskripsi":"Magni et nisi ipsam. Et magni sapiente nihil ipsa est molestiae sunt porro. Culpa explicabo odit culpa eaque velit aut atque ab.",
+            "file":"http://placeimg.com/640/480/people",
+            "type":"image"
+        },
+        {
+            "id":4,
+            "title":"Cek Denyut Nadi",
+            "deskripsi":"Consequatur molestias vero rerum autem sunt iste debitis iure alias. Vitae ipsum sed odio nihil praesentium esse quos et ut. Natus dolorem error molestiae nulla vel. Magni inventore totam quaerat corporis voluptas aliquid quia. Quia officia qui necessitatibus blanditiis dicta blanditiis. Dolorem cupiditate voluptas autem amet id.",
+            "file":"http://placeimg.com/640/480/people",
+            "type":"image"
+        },
+        {
+            "id":5,
+            "title":"Ukur TB",
+            "deskripsi":"Dolor distinctio esse. Ex aliquid perspiciatis consequatur quisquam libero. Praesentium autem ut vel optio quaerat doloremque omnis iste sed. Rerum rerum expedita molestiae velit omnis amet.",
+            "file":"http://placeimg.com/640/480/people",
+            "type":"image"
+        },
+        {
+            "id":6,
+            "title":"Ukur BB",
+            "deskripsi":"Excepturi ut qui veniam provident maxime architecto eum illum aut. Et distinctio aut minima ipsum odit accusantium tempore et. Laborum iure in. Vitae totam quasi. Incidunt fugit nam laboriosam suscipit qui neque itaque consequatur.",
+            "file":"http://placeimg.com/640/480/people",
+            "type":"image"
+        },
+        {
+            "id":7,
+            "title":"Pem. Fisik",
+            "deskripsi":"Et accusantium in temporibus vel saepe laudantium saepe nostrum. Voluptatem necessitatibus odit in. Deleniti tenetur non saepe possimus nesciunt magnam debitis placeat.",
+            "file":"http://placeimg.com/640/480/people",
+            "type":"image"
+        },
+        {
+            "id":8,
+            "title":"Cek Lab",
+            "deskripsi":"Est temporibus labore molestiae omnis saepe. Aliquid aliquam non quia voluptates rerum quas deserunt. Quis numquam eveniet.",
+            "file":"http://placeimg.com/640/480/people",
+            "type":"image"
+        },
+        {
+            "id":9,
+            "title":"Cek Denyut Jantung",
+            "deskripsi":"Aut omnis similique. Possimus quam ut aut nihil. Et eum aspernatur est fugiat voluptatem illo dolore aperiam excepturi.",
+            "file":"http://placeimg.com/640/480/people",
+            "type":"image"
+        }
+
+    ]
+}
